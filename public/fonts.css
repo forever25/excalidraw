@@ -36,3 +36,10 @@
   font-display: swap;
   font-weight: 700;
 }
+
+@font-face {
+  font-family: "pigtruman";
+  src: url("pigtruman.ttf");
+  font-display: swap;
+  font-weight: 800;
+}
